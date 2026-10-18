@@ -1,16 +1,25 @@
-## Hi there 👋
+# Varun Katuri
 
-<!--
-**varunK212/varunK212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student @ University of Virginia
+Interested in Software Engineering, Automation, and Computer Vision 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+
+- Exploring Machine Learning and Computer Vision at Virginia Image and Video Analysis (VIVA)
+  
+
+---
+
+## Featured Projects
+
+- **Agent Firewall** — 2026 HooHacks 
+- **Spare** — 2026 VTHacks
+- **TriageSense** —  2026 HackFax project
+- **HoyaHacks 2026** — 2026 Georgetown Hackathon
+- **Proximate** — 2025 VTHacks 2nd Place
+- **Kairo** — 2025 Patriot Hacks submission
+
+---
